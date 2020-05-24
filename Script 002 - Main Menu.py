@@ -1,4 +1,4 @@
-print("\n   {:=^150}   \n".format("   |   MAIN MENU (2.0)   |   "))
+print("\n   {:=^150}   \n".format("   |   MAIN MENU   |   "))
 
 from time import sleep
 

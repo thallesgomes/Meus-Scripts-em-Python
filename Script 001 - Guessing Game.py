@@ -1,4 +1,4 @@
-print("\n   {:=^150}   \n".format("  |   O JOGO DA ADVINHAÇÃO (3.0)   |  "))
+print("\n   {:=^150}   \n".format("  |   GUESSING GAME   |  "))
 
 from random import randint
 
