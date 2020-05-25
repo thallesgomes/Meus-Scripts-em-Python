@@ -1,4 +1,4 @@
-# Meus Scripts em Python 3
+# Meus Scripts em Python
 
  Repositório para publicação de alguns dos meus códigos em Python **(Python 3)**.
 ***
