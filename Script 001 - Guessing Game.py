@@ -1,4 +1,4 @@
-print("\n   {:=^150}   \n".format("  |   GUESSING GAME   |  "))
+print("\n {:=^125} \n".format("  |   GUESSING GAME   |  "))
 
 from random import randint
 
@@ -70,8 +70,8 @@ print("\nCongratulations! You got it right in {} attempts.".format(guesses))
 again = str(input("\nDo you wanna play again (Y/N)? ")).strip().upper().split()[0]
 
 if again == "Y":
-    print("Reload the game\n\n"
-          "(Ctrl + F5)")
+    print("Please, reload the game."
+
 if again == "N":
     print("Well, it was a pleasure to play with you.\n\n"
           "Goodbye... See you later...")
